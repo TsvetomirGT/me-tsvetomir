@@ -60,7 +60,7 @@ export default function Landing() {
 
           <div className="relative w-[180px] h-[180px] md:w-[200px] md:h-[200px] rounded-full overflow-hidden border-4 border-primary/10">
             <Image
-              src="/user/profile.jpeg"
+              src="./user/profile.jpeg"
               alt="Tsvetomir Tsvetkov"
               fill
               className="object-cover"
